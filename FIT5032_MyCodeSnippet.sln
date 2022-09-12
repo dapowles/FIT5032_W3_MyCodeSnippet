@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyCodeSnippet", "FIT5032_MyCodeSnippet\FIT5032_MyCodeSnippet.csproj", "{03A3C93C-21D9-4702-AE17-DE5116B14261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyCodeSnippet.Tests", "FIT5032_MyCodeSnippet.Tests\FIT5032_MyCodeSnippet.Tests.csproj", "{75E8690B-FA4B-4C22-A8BC-118FAB5B87C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A3C93C-21D9-4702-AE17-DE5116B14261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A3C93C-21D9-4702-AE17-DE5116B14261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A3C93C-21D9-4702-AE17-DE5116B14261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A3C93C-21D9-4702-AE17-DE5116B14261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E8690B-FA4B-4C22-A8BC-118FAB5B87C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E8690B-FA4B-4C22-A8BC-118FAB5B87C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E8690B-FA4B-4C22-A8BC-118FAB5B87C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E8690B-FA4B-4C22-A8BC-118FAB5B87C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABAACC56-4039-457F-B1C0-CE13EF9A072E}
+	EndGlobalSection
+EndGlobal
